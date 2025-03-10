@@ -1,4 +1,4 @@
-# Battleship AI
+# Battleship AI 🥈
 
 ## Overview
 
