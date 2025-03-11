@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Python implementation of the classic Battleship game. It was created for the Aztec AI Clubs 2025 Spring AI Tournament where contestants had 1 hour to create a battleship algorithm and compete against each other. This was my submission, landing 2nd place overall.
+This is a Python implementation of the classic Battleship game. It was created for the Aztec AI Clubs 2025 Spring AI Tournament, where contestants had 1 hour to make a battleship algorithm and compete against each other. This was my submission, and I landed 2nd place overall.
 
 ## Features
 
@@ -10,13 +10,25 @@ This is a Python implementation of the classic Battleship game. It was created f
 
 - Ship Placement: Ships are placed pseudorandomly to avoid placing ships in adjacent squares.
 
-Game Mechanics: The AI take turns guessing positions, and the game continues until all ships of one player are sunk.
+Game Mechanics: The AI takes turns guessing positions, and the game continues until all ships of one player are sunk.
 
 ## Installation
 
 Ensure you have Python installed (version 3.x recommended). Clone the repository and run:
 
-```python battleship.py```
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the program
+```bash
+python battleship.py
+```
 
 ## How It Works
 
